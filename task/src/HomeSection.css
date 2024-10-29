@@ -1,0 +1,14 @@
+.home-section {
+    background-color: #043873;
+    color: white;
+}
+
+.alignment {
+    text-align: left;
+}
+
+@media screen and (max-width: 767px) {
+    .alignment{
+        text-align: center;
+    }
+}
