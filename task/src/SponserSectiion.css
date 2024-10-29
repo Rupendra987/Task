@@ -1,0 +1,10 @@
+.sponser-section {
+    background-color: #043873;
+    color: white;
+}
+
+@media screen and (max-width: 767px) {
+    .sponser-section{
+        text-align: left;
+    }
+}

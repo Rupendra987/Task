@@ -3,6 +3,7 @@ import './App.css';
 import Header from './Header';
 import HomeSection from './HomeSection';
 import PricingSection from './PricingSection';
+import SponserSection from './SponserSection';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <HomeSection />
       <PricingSection />
+      <SponserSection />
     </div>
   );
 }
